@@ -66,4 +66,6 @@ Si par malchance, le total des signatures et des enveloppes ne correspondait pas
 
 [Imprimer cette page](javascript:window.print())
 
+[Signaler une erreur ou proposer une amélioration](https://github.com/quentinms/comptage-emargements/issues/new)
+
 Feuilles de relevé pour liste de [100](), [200]() et [400]() pages.
