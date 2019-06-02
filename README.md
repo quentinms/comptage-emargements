@@ -1,6 +1,6 @@
 # Comment compter les émargements de manière à réduire les erreurs et faciliter le recompte le cas échéant
 
-Par Lison Jullien et Quentin Mazars-Simon
+Par Lison Jullien et [Quentin Mazars-Simon](https://twitter.com/quentinms)
 
 ## Motivation
 
@@ -37,7 +37,7 @@ Par exemple, pour une liste de 23 pages :
 |       |  7  |   4  |   8   |   7   |   6   |       |
 |       |  5  |   9  |   4   |   7   |   -   |       |
 |       |  9  |   0  |   5   |   6   |   -   |       |
-| Total |     |      |       |       |       |       |
+| **Total** |     |      |       |       |       |       |
 
 ### Additions
 
@@ -53,7 +53,7 @@ Avec l'exemple précédent :
 |       |  7  |   4  |   8   |   7   |   6   | 32    |
 |       |  5  |   9  |   4   |   7   |   -   | 25    |
 |       |  9  |   0  |   5   |   6   |   -   | 20    |
-| Total |  26 |  22  |   23  |   23  |  14   |108\108|
+| **Total** |  26 |  22  |   23  |   23  |  14   |108\108|
 
 ### En cas d’erreur
 
@@ -66,5 +66,4 @@ Si par malchance, le total des signatures et des enveloppes ne correspondait pas
 
 [Imprimer cette page](javascript:window.print())
 
-Version PDF
-Feuilles de relevée pour 100, 200 et 400 pages.
+Feuilles de relevé pour liste de [100](), [200]() et [400]() pages.
