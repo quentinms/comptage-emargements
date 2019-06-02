@@ -18,7 +18,7 @@ Elle se compose de deux étapes :
 
 Il faut au moins deux personnes, mais avoir une troisième permettra de réduire les chances d’erreurs.
 
-Matériel nécessaire : papier quadrillé (si possible), stylos, calculatrices.
+Matériel nécessaire : papier quadrillé (ou [pré-remplie](feuille-comptage.pdf)), stylos, calculatrices.
 
 ### Signatures
 
@@ -68,4 +68,4 @@ Si par malchance, le total des signatures et des enveloppes ne correspondait pas
 
 [Signaler une erreur ou proposer une amélioration](https://github.com/quentinms/comptage-emargements/issues/new)
 
-Feuilles de relevé pour liste de [100](), [200]() et [400]() pages.
+[Feuille de comptage pré-remplie à imprimer](feuille-comptage.pdf)
