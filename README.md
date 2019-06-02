@@ -1,5 +1,7 @@
 # Comment compter les émargements de manière à réduire les erreurs et faciliter le recompte le cas échéant
 
+Par Lison Jullien et Quentin Mazars-Simon
+
 ## Motivation
 
 Cette technique a été développée en partant des observations suivantes :
@@ -19,16 +21,38 @@ Matériel nécessaire: papier quadrillé (si possible), stylos, calculatrices.
 
 ### Signatures
 
-Une première personne A tourne chaque page de la liste d’émargement en énonçant le numéro de page et le nombre de signature. La deuxième personne B vérifie le nombre de signatures et l’inscrit sur une feuille, en allant à la ligne pour chaque page. Arrivé en bas de la plage, on continue sur une deuxième colonne. Si une troisième personne C est présente, elle peut vérifier le nombre de signature énoncé par A et noté par B.
+Une première personne A tourne chaque page de la liste d’émargement en énonçant le numéro de page et le nombre de signature. La deuxième personne B vérifie le nombre de signatures et l’inscrit sur une feuille, en allant à la ligne pour chaque page. Arrivé en bas de la page, on continue sur une deuxième colonne. Si une troisième personne C est présente, elle peut vérifier le nombre de signature énoncé par A et noté par B.
 
 Lire le numéro de page avant le nombre de signature permet de réaliser qu’une page a été sautée.
 
 Une fois l’ensemble de la liste d’émargement traversée, vérifiez que le nombre de signatures notées correspond au nombre de pages de la liste.
 
+Par exemple, pour une liste de 23 pages :
+
+|       | 1-5 | 6-10 | 11-15 | 16-20 | 21-25 | Total |
+|-------|:---:|:----:|:-----:|:-----:|:-----:|-------|
+|       |  2  |   3  |   1   |   1   |   3   |       |
+|       |  3  |   6  |   5   |   2   |   5   |       |
+|       |  7  |   4  |   8   |   7   |   6   |       |
+|       |  5  |   9  |   4   |   7   |   -   |       |
+|       |  9  |   0  |   5   |   6   |   -   |       |
+| Total |     |      |       |       |       |       |
+
 ### Additions
 
 A et B additionnent les signatures ligne par ligne, puis colonne par colonne. Les totaux doivent correspondre.
 Si possible indépendamment, de manières différentes (par exemple A fait les calculs à la main et B sur une calculatrice).
+
+Avec l'exemple précédent :
+
+|       | 1-5 | 6-10 | 11-15 | 16-20 | 21-25 | Total |
+|-------|:---:|:----:|:-----:|:-----:|:-----:|-------|
+|       |  2  |   3  |   1   |   1   |   3   | 10    |
+|       |  3  |   6  |   5   |   2   |   5   | 21    |
+|       |  7  |   4  |   8   |   7   |   6   | 32    |
+|       |  5  |   9  |   4   |   7   |   -   | 25    |
+|       |  9  |   0  |   5   |   6   |   -   | 20    |
+| Total |  26 |  22  |   23  |   23  |  14   |108\108|
 
 ### En cas d’erreur
 
