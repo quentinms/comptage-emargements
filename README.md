@@ -4,7 +4,7 @@ Par Lison Jullien et Quentin Mazars-Simon
 
 ## Motivation
 
-Cette technique a été développée en partant des observations suivantes :
+Cette méthode a été développée en partant des observations suivantes :
 
 * Après une journée de 10h+ au bureau de vote, le comptage doit être aussi simple que possible afin de minimiser les erreurs due à la fatigue.
 * La partie la plus longue et sujette aux erreurs du comptage vient de fait de devoir parcourir le livre d’émargement. Pouvoir faire les additions sans avoir à retraverser la liste permet une recompte plus rapide, et inversement verifier le nombre de signature sans avoir à faire des additions permets de limiter les erreurs.
@@ -17,7 +17,8 @@ Elle se compose de deux étapes :
 ## Déroulement
 
 Il faut au moins deux personnes, mais avoir une troisième permettra de réduire les chances d’erreurs.
-Matériel nécessaire: papier quadrillé (si possible), stylos, calculatrices.
+
+Matériel nécessaire : papier quadrillé (si possible), stylos, calculatrices.
 
 ### Signatures
 
@@ -61,7 +62,9 @@ Si par malchance, le total des signatures et des enveloppes ne correspondait pas
 * Commencez par refaire les additions. C’est rapide à faire. S’il n’y a pas d’erreur, il faudra repasser toute la liste.
 * B lit page par page le nombre de signatures et A vérifie que les nombres précédemment notés correspondent. Si une erreur est relevée, finir la liste et refaire les additions.
 
-### Resources (à faire)
+### Resources
+
+[Imprimer cette page](javascript:window.print())
 
 Version PDF
 Feuilles de relevée pour 100, 200 et 400 pages.
